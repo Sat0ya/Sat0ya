@@ -20,7 +20,6 @@
 
 - 🌱 Always learning and exploring new technologies.
 - 💻 Interested in software development, AI and personal projects.
-- 🌌 Inspired by Japanese aesthetics, games and the atmosphere of the night.
 - ⚙️ Building things one project at a time.
 
 ### ⌘ Technologies
